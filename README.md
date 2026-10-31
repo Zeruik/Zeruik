@@ -94,29 +94,21 @@ Experimental robotic mechanisms, intelligent electromechanical systems, and moti
 
 ---
 
-## 📊 GitHub Statistics | 数据统计
+## 📊 GitHub at a Glance | 账号概览
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeruik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeruik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+[![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZeruik&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&color=58A6FF)](https://github.com/Zeruik?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Zeruik?label=FOLLOWERS&style=for-the-badge&logo=github&color=7AA2F7)](https://github.com/Zeruik?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Zeruik&style=for-the-badge&color=9D7CD8&label=PROFILE+VIEWS)](https://github.com/Zeruik)
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Zeruik&theme=tokyonight&hide_border=true" />
+<img width="72%" src="https://streak-stats.demolab.com?user=Zeruik&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
-
-## 🏆 GitHub Achievements | 开源成就
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Zeruik&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-
-</div>
+> 账号概览使用 GitHub 公开资料实时生成；连续贡献卡片由独立统计服务提供。
 
 ---
 
