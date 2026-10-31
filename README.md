@@ -25,7 +25,7 @@ Beyond building technical prototypes, I enjoy bringing people together, organizi
 
 你好，我是 **TechABJ（理工阿白菌）**。
 
-我是一名关注工程技术、机器人与人工智能的跨学科实践者，也长期参与科创团队建设与项目组织。我的兴趣横跨机械设计、电子系统、软件开发、机器人和数字制造。
+我是一名关注工程技术、机器人与人工智能的跨学科实践者，也长期参与科创团队建设与项目组织。我的兴趣横跨机械设计、电子系统、软件开发、机器人和数字制造，并持续探索 CAD/CAE 工具在结构设计、装配建模与工程分析中的应用。
 
 除了亲自进行设计、建模、编程与实验，我也关注团队如何协作、项目如何从想法走向落地，以及如何通过持续的工程实践，让更多人获得创造和成长的机会。
 
@@ -126,7 +126,7 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 | Area | Focus |
 |:--|:--|
 | 🤖 Robotics & Mechatronics | Robot systems, motion control, mechanisms, and human-machine interaction |
-| ⚙️ Mechanical Engineering | CAD, structural design, mechanical systems, and simulation |
+| ⚙️ Mechanical Engineering | Parametric CAD, assemblies, technical drawings, structural design, and simulation |
 | 🔌 Embedded Systems | ESP32, STM32, Arduino, sensors, and edge computing |
 | 🧠 Artificial Intelligence | LLMs, model distillation, machine learning, and computer vision |
 | 🛠️ Digital Fabrication | 3D modeling, 3D printing, prototyping, and product development |
@@ -135,7 +135,7 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 **中文方向**
 
 - 机器人与机电一体化：机器人系统、运动控制、机械机构与人机交互。
-- 机械工程：结构设计、CAD/CAE、机械系统与工程仿真。
+- 机械工程：参数化建模、装配设计、工程图、结构设计、CAD/CAE 与工程仿真。
 - 嵌入式系统：ESP32、STM32、Arduino、传感器与边缘计算。
 - 人工智能：大语言模型、模型蒸馏、机器学习与计算机视觉。
 - 数字制造：三维建模、3D 打印、快速原型与产品开发。
@@ -162,6 +162,35 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 </div>
 
 **Other Interests:** ROS 2 · URDF · ESP-IDF · Fusion 360 · ANSYS · Fluent · CFD · FEA · PCB Design · 3D Printing
+
+---
+
+## 🧩 Engineering Tools | 工程工具
+
+**CAD & Mechanical Design | CAD 与机械设计**
+
+- Autodesk Inventor — Parametric part modeling, assemblies, and engineering drawings.
+- Fusion 360 — 3D modeling, mechanical design, and prototyping workflows.
+- SOLIDWORKS — Mechanical part and assembly design.
+- AutoCAD — 2D drafting and technical documentation.
+- Blender — 3D modeling, visualization, and digital content creation.
+
+**Simulation & Manufacturing | 仿真与制造**
+
+- ANSYS — Engineering simulation and analysis workflows.
+- CFD / FEA — Computational fluid dynamics and finite element analysis.
+- Additive Manufacturing — FDM 3D printing, material selection, process tuning, and rapid prototyping.
+
+**中文工具与实践方向**
+
+- **Autodesk Inventor：** 参数化零件建模、装配设计与工程图。
+- **Fusion 360：** 三维建模、机械设计与原型开发。
+- **SOLIDWORKS：** 机械零件与装配体设计。
+- **AutoCAD：** 二维制图与工程文档。
+- **Blender：** 三维建模、可视化与数字内容创作。
+- **ANSYS：** 工程仿真与分析流程。
+- **CFD / FEA：** 计算流体力学与有限元分析。
+- **增材制造：** FDM 3D 打印、材料选型、工艺调试与快速原型制造。
 
 ---
 
