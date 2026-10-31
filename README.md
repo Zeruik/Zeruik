@@ -36,41 +36,88 @@ Beyond building technical prototypes, I enjoy bringing people together, organizi
 ### 2026 – Present · Co-Founder
 **ZeroToHand Studio (ZTH Studio) | 赋形造物工作室**
 
-Co-founding and developing an independent creative engineering studio focused on the connection between digital design and physical creation.
+Co-founding and developing an independent creative engineering studio focused on the connection between digital design, engineering practice, and physical creation.
 
-- Building a studio identity around engineering, digital modeling, and fabrication.
-- Exploring the workflow from concept development and 3D design to prototyping and physical products.
-- Developing visual identity, project presentation, and a consistent creative direction.
-- Bringing engineering thinking and hands-on making together through practical projects.
+- Contributing to the studio's identity, positioning, and long-term creative direction.
+- Exploring the complete workflow from concept development and CAD/3D modeling to prototyping and physical products.
+- Connecting mechanical design, digital fabrication, and product-oriented engineering.
+- Developing a platform for collaborative making, experimentation, and creative engineering.
 
 **中文经历**
 
-2026 年起，联合创立 **ZeroToHand Studio（ZTH Studio，赋形造物工作室）**，围绕数字设计、三维建模、工程实践与实体制造开展探索。
+2026 年起，联合创立 **ZeroToHand Studio（ZTH Studio，赋形造物工作室）**，围绕数字设计、工程实践与实体制造开展探索。
 
-- 参与工作室品牌定位、视觉识别与整体方向建设。
-- 探索从创意构思、数字建模到原型制作与实体产品的完整流程。
-- 推动设计表达与工程制造相结合，形成具有持续性的创作方向。
+- 参与工作室品牌定位、视觉识别与长期发展方向建设。
+- 探索从创意构思、CAD/三维建模到原型制作与实体产品的完整流程。
+- 推动机械设计、数字制造与产品化工程实践相结合。
+- 建设面向协作、实验与创意工程的工作平台。
 
-### 2024 – 2025 · Overall Lead
+### 2025 – 2026 · Overall Lead
+**Innovation & Entrepreneurship Laboratory, School of Materials Science and Engineering**
+
+Led overall coordination and project development in a college-level innovation and entrepreneurship laboratory, with a focus on materials-related exploration, engineering practice, and advanced digital manufacturing.
+
+- Coordinated laboratory activities, project planning, team collaboration, and development progress.
+- Explored material characteristics and their relationship with processing methods and final product performance.
+- Focused on additive manufacturing workflows, including material selection, process parameters, print quality, and process optimization.
+- Studied professional desktop manufacturing platforms, including **Bambu Lab H2D Pro** and **Bambu Lab H2C**.
+- Explored the **Vortek Hotend Change System** on the H2C, with an interest in multi-material workflows, hotend switching, material compatibility, and process efficiency.
+- Connected materials science with mechanical design, prototyping, testing, and practical engineering applications.
+
+**中文经历**
+
+2025–2026 年担任 **材料科学与工程学院创新创业实验室总负责人**，负责实验室整体协调、项目规划、团队协作与创新实践推进。
+
+研究与实践方向包括：
+
+- 材料特性与加工方法之间的关系，以及材料性能对最终制品表现的影响。
+- 增材制造工艺研究，包括材料选择、工艺参数、打印质量与工艺优化。
+- 关注拓竹科技 **Bambu Lab H2D Pro**、**Bambu Lab H2C** 等专业级桌面制造平台。
+- 围绕 H2C 的 **Vortek 智能热端切换系统**，探索多材料打印、热端切换、材料兼容性与制造效率。
+- 将材料研究与机械设计、原型制造、实验验证及实际工程应用相结合。
+
+### 2023 – 2025 · Overall Lead
 **Xiangyang Innovation Studio | 向阳科创工作室**
 
-Led the studio's overall coordination and development, helping connect different technical groups, student projects, and competition-oriented activities.
+Led the studio's overall coordination and development, connecting different technical groups, student projects, and competition-oriented activities.
 
 - Coordinated the studio's overall planning, team operations, and project progress.
-- Helped organize interdisciplinary collaboration across mechanical, electronics, programming, and operations teams.
-- Supported project development from early-stage ideas and technical planning to prototyping and presentation.
+- Organized interdisciplinary collaboration across mechanical engineering, electronics, programming, and operations.
+- Supported projects from early-stage ideas and technical planning through prototyping, testing, and presentation.
 - Encouraged hands-on learning, peer collaboration, and participation in engineering and innovation competitions.
-- Worked to build a community where members could develop technical skills, project experience, and confidence through making.
+- Helped create an environment where members could develop technical skills, project experience, and confidence through making.
 
 **中文经历**
 
-2024–2025 年担任 **上海工程技术大学向阳科创工作室总负责人**，参与工作室整体规划、团队管理与项目统筹。
+2023–2025 年担任 **向阳科创工作室总负责人**，负责工作室整体规划、团队管理与项目统筹。
 
 - 统筹工作室日常运营、团队协作与项目推进。
 - 协调机械、电控、编程及运营等不同方向的成员开展跨学科合作。
-- 推动项目从选题构思、技术方案、原型制作到成果展示的过程。
+- 推动项目从选题构思、技术方案、原型制作、实验测试到成果展示。
 - 组织和支持成员参与科创项目与工程类竞赛。
-- 注重成员的实践能力、团队协作能力与独立解决问题能力的培养。
+- 注重成员实践能力、团队协作能力与独立解决问题能力的培养。
+
+---
+
+## 🧪 Materials & Additive Manufacturing | 材料与增材制造
+
+An area of ongoing exploration connecting material behavior, manufacturing processes, and engineering outcomes.
+
+- **Material Characterization & Selection** — Understanding material properties, application requirements, and processing compatibility.
+- **Fused Deposition Modeling (FDM)** — Exploring the relationship between filament properties, extrusion conditions, and printed-part quality.
+- **Process Optimization** — Studying temperature, speed, layer height, cooling, infill, and other process variables.
+- **Multi-Material Manufacturing** — Exploring material combinations, interface quality, process coordination, and reducing material waste.
+- **Advanced Desktop Manufacturing** — Following the development of Bambu Lab H2D Pro and H2C platforms, including the H2C Vortek hotend-changing workflow.
+
+**中文研究方向**
+
+围绕材料特性、制造工艺与工程结果之间的联系开展持续探索：
+
+- **材料特性与选型：** 关注材料性能、应用需求及加工适配性。
+- **熔融沉积成型（FDM）：** 探索线材特性、挤出条件与成型质量之间的关系。
+- **工艺优化：** 关注温度、速度、层高、冷却、填充等工艺变量。
+- **多材料制造：** 探索材料组合、界面质量、工艺协同与材料损耗控制。
+- **先进桌面制造：** 关注拓竹科技 H2D Pro、H2C 平台及 H2C Vortek 热端切换工作流程。
 
 ---
 
