@@ -36,7 +36,7 @@ Beyond building technical prototypes, I enjoy bringing people together, organizi
 ### 2026 – Present · Co-Founder
 **ZeroToHand Studio (ZTH Studio) | 赋形造物工作室**
 
-Co-founding and developing an independent creative engineering studio focused on the connection between digital design, engineering practice, and physical creation.
+Co-founded as a sub-studio and creative brand under Xiangyang Innovation Studio, focused on the connection between digital design, engineering practice, and physical creation.
 
 - Contributing to the studio's identity, positioning, and long-term creative direction.
 - Exploring the complete workflow from concept development and CAD/3D modeling to prototyping and physical products.
@@ -45,7 +45,7 @@ Co-founding and developing an independent creative engineering studio focused on
 
 **中文经历**
 
-2026 年起，联合创立 **ZeroToHand Studio（ZTH Studio，赋形造物工作室）**，围绕数字设计、工程实践与实体制造开展探索。
+2026 年起，在 **向阳科创工作室** 体系下联合创立子工作室及子品牌 **ZeroToHand Studio（ZTH Studio，赋形造物工作室）**，围绕数字设计、工程实践与实体制造开展探索。
 
 - 参与工作室品牌定位、视觉识别与长期发展方向建设。
 - 探索从创意构思、CAD/三维建模到原型制作与实体产品的完整流程。
@@ -206,9 +206,9 @@ Exploring tools and workflows for robot description, configuration, visualizatio
 ### 02 · ZeroToHand Studio | 赋形造物工作室
 **Digital Design & Physical Creation**
 
-An independent studio initiative exploring the relationship between digital creativity, 3D modeling, engineering design, and physical manufacturing.
+A sub-studio and creative brand developed under Xiangyang Innovation Studio, exploring the relationship between digital creativity, 3D modeling, engineering design, and physical manufacturing.
 
-以数字创意、三维建模、工程设计与实体制造为核心，探索从数字世界到真实产品的更多可能。
+作为向阳科创工作室旗下的子工作室与子品牌，以数字创意、三维建模、工程设计与实体制造为核心，探索从数字世界到真实产品的更多可能。
 
 ### 03 · Embedded Intelligence
 **Lightweight AI & Edge Computing**
