@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+%C2%B7+Robotics+%C2%B7+AI;Building+Teams%2C+Tools+%26+Things;From+Zero+to+Form.;From+Ideas+to+Reality." alt="Typing SVG" />
 
-**Engineering · Robotics · Artificial Intelligence · Digital Fabrication**
+**Interdisciplinary Engineer | Robotics · Mechanical Design · Materials · AI**
+
+**跨学科工程实践者｜机器人 · 机械设计 · 材料 · 人工智能**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zeruik-181717?style=for-the-badge&logo=github)](https://github.com/Zeruik)
 [![Profile Views](https://komarev.com/ghpvc/?username=Zeruik&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Zeruik)
@@ -19,15 +21,15 @@
 
 **Hi, I'm TechABJ (理工阿白菌).**
 
-I'm an engineering enthusiast, independent maker, and student-community builder interested in turning ideas into real-world projects. My work sits at the intersection of mechanical engineering, robotics, electronics, software, and artificial intelligence.
+I'm an interdisciplinary engineering practitioner, maker, and team builder working across robotics, mechanical design, materials, and artificial intelligence. I enjoy connecting engineering disciplines—from CAD modeling and mechanical systems to embedded electronics, additive manufacturing, and intelligent software—to turn ideas into practical prototypes and working solutions.
 
-Beyond building technical prototypes, I enjoy bringing people together, organizing interdisciplinary teams, shaping project directions, and creating environments where people can learn by making things together.
+My experience also includes leading student innovation teams and coordinating interdisciplinary projects. I value both sides of engineering: building the technical system and creating the collaborative environment that helps people develop ideas into tangible outcomes.
 
 你好，我是 **TechABJ（理工阿白菌）**。
 
-我是一名关注工程技术、机器人与人工智能的跨学科实践者，也长期参与科创团队建设与项目组织。我的兴趣横跨机械设计、电子系统、软件开发、机器人和数字制造，并持续探索 CAD/CAE 工具在结构设计、装配建模与工程分析中的应用。
+我是一名跨学科工程实践者，长期关注机器人、机械设计、材料与人工智能，并参与科创团队建设和项目组织。技术实践覆盖机械结构与参数化建模、电子与嵌入式系统、增材制造、工程仿真及智能软件等方向。
 
-除了亲自进行设计、建模、编程与实验，我也关注团队如何协作、项目如何从想法走向落地，以及如何通过持续的工程实践，让更多人获得创造和成长的机会。
+我既关注具体工程问题如何通过设计、建模、编程和实验得到解决，也重视团队协作与项目推进，希望把不同技术领域连接起来，让想法逐步成为可验证、可迭代的工程成果。
 
 ---
 
@@ -126,7 +128,7 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 | Area | Focus |
 |:--|:--|
 | 🤖 Robotics & Mechatronics | Robot systems, motion control, mechanisms, and human-machine interaction |
-| ⚙️ Mechanical Engineering | Parametric CAD, assemblies, technical drawings, structural design, and simulation |
+| ⚙️ Mechanical Design | Parametric CAD, assemblies, technical drawings, mechanisms, and simulation |
 | 🔌 Embedded Systems | ESP32, STM32, Arduino, sensors, and edge computing |
 | 🧠 Artificial Intelligence | LLMs, model distillation, machine learning, and computer vision |
 | 🛠️ Digital Fabrication | 3D modeling, 3D printing, prototyping, and product development |
