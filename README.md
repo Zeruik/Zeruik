@@ -53,7 +53,7 @@ Co-founding and developing an independent creative engineering studio focused on
 - 建设面向协作、实验与创意工程的工作平台。
 
 ### 2025 – 2026 · Overall Lead
-**Innovation & Entrepreneurship Laboratory, School of Materials Science and Engineering**
+**Innovation & Entrepreneurship Laboratory, School of Materials Science and Engineering | 材料科学与工程学院创新创业实验室**
 
 Led overall coordination and project development in a college-level innovation and entrepreneurship laboratory, with a focus on materials-related exploration, engineering practice, and advanced digital manufacturing.
 
@@ -77,7 +77,7 @@ Led overall coordination and project development in a college-level innovation a
 - 将材料研究与机械设计、原型制造、实验验证及实际工程应用相结合。
 
 ### 2023 – 2025 · Overall Lead
-**Xiangyang Innovation Studio | 向阳科创工作室**
+**Xiangyang Innovation Studio, Shanghai University of Engineering Science | 上海工程技术大学向阳科创工作室**
 
 Led the studio's overall coordination and development, connecting different technical groups, student projects, and competition-oriented activities.
 
