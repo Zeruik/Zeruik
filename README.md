@@ -77,7 +77,7 @@ Led overall coordination and project development in a college-level innovation a
 - 将材料研究与机械设计、原型制造、实验验证及实际工程应用相结合。
 
 ### 2023 – 2025 · Overall Lead
-**Xiangyang Innovation Studio, Shanghai University of Engineering Science | 上海工程技术大学向阳科创工作室**
+**Xiangyang Innovation Studio | 向阳科创工作室**
 
 Led the studio's overall coordination and development, connecting different technical groups, student projects, and competition-oriented activities.
 
