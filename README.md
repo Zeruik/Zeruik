@@ -1,19 +1,19 @@
-# 👋 Hello, I'm TechABJ
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+%C2%B7+Robotics+%C2%B7+AI;Building+Teams%2C+Tools+%26+Things;From+Zero+to+Form.;From+Ideas+to+Reality." alt="Typing SVG" />
+# TechABJ
 
 **Interdisciplinary Engineer | Robotics · Mechanical Design · Materials · AI**
 
-**跨学科工程实践者｜机器人 · 机械设计 · 材料 · 人工智能**
+跨学科工程实践者｜机器人 · 机械设计 · 材料 · 人工智能
 
-[![GitHub](https://img.shields.io/badge/GitHub-Zeruik-181717?style=for-the-badge&logo=github)](https://github.com/Zeruik)
-[![Profile Views](https://komarev.com/ghpvc/?username=Zeruik&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Zeruik)
+*Engineering across disciplines. Turning ideas into reality.*
 
-*From Zero to Form. From Ideas to Reality.*
+[![GitHub](https://img.shields.io/badge/GitHub-Zeruik-222222?style=flat-square&logo=github)](https://github.com/Zeruik)
+[![Profile Views](https://komarev.com/ghpvc/?username=Zeruik&style=flat-square&color=777777&label=PROFILE+VIEWS)](https://github.com/Zeruik)
 
 </div>
+
+---
 
 ---
 
@@ -167,63 +167,83 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 
 ---
 
-## 🧰 Engineering Software & Toolchain | 工程软件与工具链
+## 🧰 Tech Stack | 技术栈
 
-My engineering workflow spans mechanical design, simulation, embedded development, scientific computing, and digital fabrication. The tools below reflect the software ecosystem I work with and explore; individual tools are applied according to each project's requirements.
+My work spans the engineering workflow from digital design and simulation to embedded hardware, software development, and physical prototyping. This is a cross-disciplinary engineering stack rather than a claim of specialization in every listed tool.
 
-我的工程工具链覆盖机械设计、工程仿真、嵌入式开发、科学计算与数字制造。以下列出日常工作环境中使用和探索的软件平台，具体工具会根据项目需求组合使用。
+我的技术栈覆盖从数字设计、工程仿真，到嵌入式硬件、软件开发和实体原型制造的完整工程流程。这里强调跨领域的实践与工具协同，并不代表对每一项工具都达到同等熟练程度。
 
 ### 01 · CAD & Mechanical Design | CAD 与机械设计
 
-- **Autodesk Inventor** — Parametric part modeling, assemblies, drawing documentation, and mechanical design.
-- **Autodesk Fusion 360** — Integrated 3D design, modeling, and prototyping workflows.
-- **SOLIDWORKS** — Mechanical parts, assemblies, and design communication.
-- **AutoCAD / AutoCAD Mechanical** — 2D drafting and mechanical documentation.
-- **ANSYS SpaceClaim** — Geometry preparation and model editing for simulation.
-- **Blender** — 3D modeling, visualization, and digital content creation.
+<div align="center">
 
-**中文方向：** 参数化零件建模、复杂装配、工程图、机械结构设计、几何模型处理与三维可视化。
+<img src="https://skillicons.dev/icons?i=autocad,blender" alt="CAD and 3D design tools" />
 
-### 02 · CAE, Simulation & Scientific Computing | 工程仿真与科学计算
+</div>
 
-- **ANSYS Workbench** — Multiphysics simulation workflow and engineering analysis.
-- **ANSYS Discovery** — Interactive simulation and rapid design exploration.
-- **ANSYS Fluent** — Computational fluid dynamics (CFD).
-- **SIMULIA Abaqus** — Finite element analysis (FEA) and structural simulation.
-- **MSC Adams View** — Multibody dynamics and mechanism motion analysis.
-- **MATLAB** — Numerical computing, modeling, data analysis, and algorithm development.
-- **Python scientific stack** — Jupyter Notebook, Anaconda, and Spyder for computational work.
+**Autodesk Inventor · Fusion 360 · SOLIDWORKS · AutoCAD / AutoCAD Mechanical · ANSYS SpaceClaim · Blender**
 
-**中文方向：** 有限元分析、计算流体力学、多体动力学、结构与运动仿真、数值计算、数据处理及算法验证。
+Parametric modeling, mechanical parts and assemblies, engineering drawings, mechanism design, geometry preparation, and 3D visualization.
+
+参数化建模、机械零件与装配、工程图、机构设计、仿真几何处理与三维可视化。
+
+### 02 · CAE & Scientific Computing | 工程仿真与科学计算
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=matlab,python" alt="Scientific computing tools" />
+
+</div>
+
+**ANSYS Workbench · ANSYS Discovery · ANSYS Fluent · SIMULIA Abaqus · MSC Adams View · MATLAB · Python · Jupyter · Anaconda · Spyder**
+
+Structural analysis, finite element analysis (FEA), computational fluid dynamics (CFD), multibody dynamics, numerical modeling, and data analysis.
+
+结构分析、有限元分析、计算流体力学、多体动力学、数值建模与数据分析。
 
 ### 03 · Embedded Systems & Electronics | 嵌入式系统与电子技术
 
-- **Arduino IDE** — Microcontroller programming and rapid hardware prototyping.
-- **Keil MDK / µVision** — Embedded development for supported microcontroller platforms.
-- **STC-ISP** — STC microcontroller programming and device configuration.
-- **立创 EDA / JLCEDA** — Electronic schematic and PCB design workflows.
-- **Fritzing** — Breadboard diagrams and electronics prototyping documentation.
-- **Thonny** — Python and MicroPython development, including educational and embedded workflows.
-- **Raspberry Pi Imager** — Operating-system imaging and Raspberry Pi setup.
+<div align="center">
 
-**中文方向：** 单片机开发、固件烧录、原理图与 PCB 设计、电子原型搭建、Python/MicroPython 及硬件调试。
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded development tools" />
 
-### 04 · Programming, Automation & Developer Tools | 编程与开发工具
+</div>
 
-- **Visual Studio Code** — General-purpose development and code editing.
-- **Git & Git Bash** — Version control and command-line workflows.
-- **Jupyter Notebook / Anaconda / Spyder** — Python development, scientific computing, and experimentation.
-- **Codex and AI-assisted development tools** — Exploring AI-supported coding, debugging, and engineering workflows.
+**Arduino IDE · ESP32 · STM32 · Keil MDK / µVision · STC-ISP · 立创 EDA / JLCEDA · Fritzing · Thonny · Raspberry Pi**
 
-**中文方向：** Python 与 C/C++ 开发、版本管理、命令行工具、科学计算，以及 AI 辅助编程和工程工作流。
+Microcontroller development, firmware programming, schematic and PCB design, sensor integration, hardware prototyping, and debugging.
 
-### 05 · Visualization & Digital Fabrication | 可视化与数字制造
+单片机开发、固件编程、原理图与 PCB 设计、传感器集成、硬件原型搭建与调试。
 
-- **KeyShot Studio** — Product visualization and rendering.
-- **FDM 3D Printing** — Prototype fabrication, material selection, and process tuning.
-- **Additive Manufacturing Research** — Print parameters, material compatibility, multi-material workflows, and process optimization.
+### 04 · Programming, Automation & AI | 编程、自动化与人工智能
 
-**中文方向：** 产品级渲染、三维打印、快速原型制造、材料适配、多材料工艺与打印参数优化。
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,vscode,git,github,linux" alt="Programming and development tools" />
+
+</div>
+
+**Python · C · C++ · JavaScript · HTML · CSS · Visual Studio Code · Git · Git Bash · Linux · Codex**
+
+Programming for engineering applications, scripting, data processing, development workflows, version control, and AI-assisted coding.
+
+面向工程应用的编程、脚本开发、数据处理、开发工作流、版本管理与 AI 辅助编程。
+
+### 05 · Materials & Additive Manufacturing | 材料与增材制造
+
+**Bambu Lab H2D Pro · Bambu Lab H2C · Vortek Hotend Change System · FDM 3D Printing**
+
+Material selection, print parameters, multi-material workflows, hotend switching, process optimization, and rapid prototyping.
+
+材料选型、打印参数、多材料工艺、热端切换、工艺优化与快速原型制造。
+
+### 06 · Visualization & Product Presentation | 可视化与产品表达
+
+**KeyShot Studio · Blender · 3D CAD Visualization**
+
+Product rendering, technical visualization, presentation assets, and communicating engineering concepts through images and models.
+
+产品渲染、技术可视化、展示素材制作，以及通过图像和模型表达工程概念。
 
 ---
 
