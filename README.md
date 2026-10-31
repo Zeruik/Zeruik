@@ -147,103 +147,99 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 
 ## 🧰 Tech Stack | 技术栈
 
-<div align="center">
+My toolkit covers the engineering lifecycle: design, simulation, electronics, programming, materials processing, and product visualization. The list below reflects tools I use, study, or work with in project contexts—not a claim of equal mastery across every platform.
 
-### Programming Languages
+我的工具链覆盖工程实践的多个环节：设计、仿真、电子系统、编程、材料加工与产品可视化。以下列出我在项目中使用、学习或接触的工具，并不表示对所有平台都具有相同程度的熟练度。
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
-
-### Embedded & Development
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,linux" />
-
-### Design & Creation
-
-<img src="https://skillicons.dev/icons?i=blender,solidworks,autocad" />
-
-</div>
-
-**Other Interests:** ROS 2 · URDF · ESP-IDF · Fusion 360 · ANSYS · Fluent · CFD · FEA · PCB Design · 3D Printing
-
----
-
-## 🧰 Tech Stack | 技术栈
-
-My work spans the engineering workflow from digital design and simulation to embedded hardware, software development, and physical prototyping. This is a cross-disciplinary engineering stack rather than a claim of specialization in every listed tool.
-
-我的技术栈覆盖从数字设计、工程仿真，到嵌入式硬件、软件开发和实体原型制造的完整工程流程。这里强调跨领域的实践与工具协同，并不代表对每一项工具都达到同等熟练程度。
-
-### 01 · CAD & Mechanical Design | CAD 与机械设计
+### 01 · Programming Languages | 编程语言
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=autocad,blender" alt="CAD and 3D design tools" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" alt="Programming language icons" />
 
 </div>
 
-**Autodesk Inventor · Fusion 360 · SOLIDWORKS · AutoCAD / AutoCAD Mechanical · ANSYS SpaceClaim · Blender**
+**Python · C · C++ · JavaScript · HTML5 · CSS3**
 
-Parametric modeling, mechanical parts and assemblies, engineering drawings, mechanism design, geometry preparation, and 3D visualization.
+Engineering scripts, embedded programming, data processing, web fundamentals, and application prototyping.
 
-参数化建模、机械零件与装配、工程图、机构设计、仿真几何处理与三维可视化。
+工程脚本、嵌入式编程、数据处理、Web 基础与应用原型开发。
 
-### 02 · CAE & Scientific Computing | 工程仿真与科学计算
+### 02 · CAD & Mechanical Design | CAD 与机械设计
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=matlab,python" alt="Scientific computing tools" />
+<img src="https://skillicons.dev/icons?i=autocad,blender" alt="CAD and 3D design icons" />
 
 </div>
 
-**ANSYS Workbench · ANSYS Discovery · ANSYS Fluent · SIMULIA Abaqus · MSC Adams View · MATLAB · Python · Jupyter · Anaconda · Spyder**
+**Autodesk Inventor · Fusion 360 · SOLIDWORKS · AutoCAD · AutoCAD Mechanical · ANSYS SpaceClaim · Blender**
+
+Parametric part modeling, assemblies, engineering drawings, mechanism design, geometry preparation, and 3D visualization.
+
+参数化零件建模、装配设计、工程图、机械机构设计、仿真几何处理与三维可视化。
+
+### 03 · CAE & Scientific Computing | 工程仿真与科学计算
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=matlab,python" alt="Scientific computing icons" />
+
+</div>
+
+**ANSYS Workbench · ANSYS Discovery · ANSYS Fluent · SIMULIA Abaqus · MSC Adams View · MATLAB · Jupyter Notebook · Anaconda · Spyder**
 
 Structural analysis, finite element analysis (FEA), computational fluid dynamics (CFD), multibody dynamics, numerical modeling, and data analysis.
 
 结构分析、有限元分析、计算流体力学、多体动力学、数值建模与数据分析。
 
-### 03 · Embedded Systems & Electronics | 嵌入式系统与电子技术
+### 04 · Embedded Systems & Electronics | 嵌入式系统与电子技术
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded development tools" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded systems icons" />
 
 </div>
 
-**Arduino IDE · ESP32 · STM32 · Keil MDK / µVision · STC-ISP · 立创 EDA / JLCEDA · Fritzing · Thonny · Raspberry Pi**
+**Arduino IDE · ESP32 · STM32 · Keil MDK / µVision · STC-ISP · 立创 EDA / JLCEDA · Fritzing · Thonny · Raspberry Pi Imager**
 
 Microcontroller development, firmware programming, schematic and PCB design, sensor integration, hardware prototyping, and debugging.
 
 单片机开发、固件编程、原理图与 PCB 设计、传感器集成、硬件原型搭建与调试。
 
-### 04 · Programming, Automation & AI | 编程、自动化与人工智能
+### 05 · Software Development, Version Control & AI | 软件开发、版本管理与人工智能
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,vscode,git,github,linux" alt="Programming and development tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,anaconda" alt="Developer tools icons" />
 
 </div>
 
-**Python · C · C++ · JavaScript · HTML · CSS · Visual Studio Code · Git · Git Bash · Linux · Codex**
+**Visual Studio Code · Git · Git Bash · Linux · Codex · AI-assisted Development**
 
-Programming for engineering applications, scripting, data processing, development workflows, version control, and AI-assisted coding.
+Development environments, version control, command-line workflows, Python environments, AI-assisted coding, debugging, and engineering automation.
 
-面向工程应用的编程、脚本开发、数据处理、开发工作流、版本管理与 AI 辅助编程。
+开发环境、版本管理、命令行工作流、Python 环境管理、AI 辅助编程、调试与工程自动化。
 
-### 05 · Materials & Additive Manufacturing | 材料与增材制造
+### 06 · Materials, Additive Manufacturing & Visualization | 材料、增材制造与可视化
 
-**Bambu Lab H2D Pro · Bambu Lab H2C · Vortek Hotend Change System · FDM 3D Printing**
+<div align="center">
 
-Material selection, print parameters, multi-material workflows, hotend switching, process optimization, and rapid prototyping.
+<img src="https://skillicons.dev/icons?i=blender" alt="3D modeling icon" />
 
-材料选型、打印参数、多材料工艺、热端切换、工艺优化与快速原型制造。
+</div>
 
-### 06 · Visualization & Product Presentation | 可视化与产品表达
+**Bambu Lab H2D Pro · Bambu Lab H2C · Vortek Hotend Change System · FDM 3D Printing · KeyShot Studio**
 
-**KeyShot Studio · Blender · 3D CAD Visualization**
+Material selection, print parameters, multi-material workflows, hotend switching, process optimization, rapid prototyping, product rendering, and technical visualization.
 
-Product rendering, technical visualization, presentation assets, and communicating engineering concepts through images and models.
+材料选型、打印参数、多材料工艺、热端切换、工艺优化、快速原型制造、产品渲染与技术可视化。
 
-产品渲染、技术可视化、展示素材制作，以及通过图像和模型表达工程概念。
+### Engineering Methods | 工程方法
+
+**CAD / CAE · CFD · FEA · URDF · ROS 2 · PCB Design · Embedded Control · Rapid Prototyping · Digital Fabrication**
+
+**参数化设计 · 工程仿真 · 流体分析 · 有限元分析 · 机器人描述 · 机器人操作系统 · PCB 设计 · 嵌入式控制 · 快速原型 · 数字化制造**
 
 ---
 
