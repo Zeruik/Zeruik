@@ -167,32 +167,63 @@ An area of ongoing exploration connecting material behavior, manufacturing proce
 
 ---
 
-## 🧩 Engineering Tools | 工程工具
+## 🧰 Engineering Software & Toolchain | 工程软件与工具链
 
-**CAD & Mechanical Design | CAD 与机械设计**
+My engineering workflow spans mechanical design, simulation, embedded development, scientific computing, and digital fabrication. The tools below reflect the software ecosystem I work with and explore; individual tools are applied according to each project's requirements.
 
-- Autodesk Inventor — Parametric part modeling, assemblies, and engineering drawings.
-- Fusion 360 — 3D modeling, mechanical design, and prototyping workflows.
-- SOLIDWORKS — Mechanical part and assembly design.
-- AutoCAD — 2D drafting and technical documentation.
-- Blender — 3D modeling, visualization, and digital content creation.
+我的工程工具链覆盖机械设计、工程仿真、嵌入式开发、科学计算与数字制造。以下列出日常工作环境中使用和探索的软件平台，具体工具会根据项目需求组合使用。
 
-**Simulation & Manufacturing | 仿真与制造**
+### 01 · CAD & Mechanical Design | CAD 与机械设计
 
-- ANSYS — Engineering simulation and analysis workflows.
-- CFD / FEA — Computational fluid dynamics and finite element analysis.
-- Additive Manufacturing — FDM 3D printing, material selection, process tuning, and rapid prototyping.
+- **Autodesk Inventor** — Parametric part modeling, assemblies, drawing documentation, and mechanical design.
+- **Autodesk Fusion 360** — Integrated 3D design, modeling, and prototyping workflows.
+- **SOLIDWORKS** — Mechanical parts, assemblies, and design communication.
+- **AutoCAD / AutoCAD Mechanical** — 2D drafting and mechanical documentation.
+- **ANSYS SpaceClaim** — Geometry preparation and model editing for simulation.
+- **Blender** — 3D modeling, visualization, and digital content creation.
 
-**中文工具与实践方向**
+**中文方向：** 参数化零件建模、复杂装配、工程图、机械结构设计、几何模型处理与三维可视化。
 
-- **Autodesk Inventor：** 参数化零件建模、装配设计与工程图。
-- **Fusion 360：** 三维建模、机械设计与原型开发。
-- **SOLIDWORKS：** 机械零件与装配体设计。
-- **AutoCAD：** 二维制图与工程文档。
-- **Blender：** 三维建模、可视化与数字内容创作。
-- **ANSYS：** 工程仿真与分析流程。
-- **CFD / FEA：** 计算流体力学与有限元分析。
-- **增材制造：** FDM 3D 打印、材料选型、工艺调试与快速原型制造。
+### 02 · CAE, Simulation & Scientific Computing | 工程仿真与科学计算
+
+- **ANSYS Workbench** — Multiphysics simulation workflow and engineering analysis.
+- **ANSYS Discovery** — Interactive simulation and rapid design exploration.
+- **ANSYS Fluent** — Computational fluid dynamics (CFD).
+- **SIMULIA Abaqus** — Finite element analysis (FEA) and structural simulation.
+- **MSC Adams View** — Multibody dynamics and mechanism motion analysis.
+- **MATLAB** — Numerical computing, modeling, data analysis, and algorithm development.
+- **Python scientific stack** — Jupyter Notebook, Anaconda, and Spyder for computational work.
+
+**中文方向：** 有限元分析、计算流体力学、多体动力学、结构与运动仿真、数值计算、数据处理及算法验证。
+
+### 03 · Embedded Systems & Electronics | 嵌入式系统与电子技术
+
+- **Arduino IDE** — Microcontroller programming and rapid hardware prototyping.
+- **Keil MDK / µVision** — Embedded development for supported microcontroller platforms.
+- **STC-ISP** — STC microcontroller programming and device configuration.
+- **立创 EDA / JLCEDA** — Electronic schematic and PCB design workflows.
+- **Fritzing** — Breadboard diagrams and electronics prototyping documentation.
+- **Thonny** — Python and MicroPython development, including educational and embedded workflows.
+- **Raspberry Pi Imager** — Operating-system imaging and Raspberry Pi setup.
+
+**中文方向：** 单片机开发、固件烧录、原理图与 PCB 设计、电子原型搭建、Python/MicroPython 及硬件调试。
+
+### 04 · Programming, Automation & Developer Tools | 编程与开发工具
+
+- **Visual Studio Code** — General-purpose development and code editing.
+- **Git & Git Bash** — Version control and command-line workflows.
+- **Jupyter Notebook / Anaconda / Spyder** — Python development, scientific computing, and experimentation.
+- **Codex and AI-assisted development tools** — Exploring AI-supported coding, debugging, and engineering workflows.
+
+**中文方向：** Python 与 C/C++ 开发、版本管理、命令行工具、科学计算，以及 AI 辅助编程和工程工作流。
+
+### 05 · Visualization & Digital Fabrication | 可视化与数字制造
+
+- **KeyShot Studio** — Product visualization and rendering.
+- **FDM 3D Printing** — Prototype fabrication, material selection, and process tuning.
+- **Additive Manufacturing Research** — Print parameters, material compatibility, multi-material workflows, and process optimization.
+
+**中文方向：** 产品级渲染、三维打印、快速原型制造、材料适配、多材料工艺与打印参数优化。
 
 ---
 
