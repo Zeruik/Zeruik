@@ -249,7 +249,7 @@ Material selection, print parameters, multi-material workflows, hotend switching
 
 | 项目 / Project | 用途 / Purpose | 源码与版本 / Source and releases |
 |---|---|---|
-| ZTH-IDF | 微控制器开发与通信 / MCU development and communication | [Source](https://github.com/Zeruik/zth-idf) · [Releases](https://github.com/Zeruik/zth-idf/releases) |
+| ZTH-IDF | 微控制器开发与通信 / MCU development and communication | [Repository (access required)](https://github.com/Zeruik/zth-idf) · [Releases (access required)](https://github.com/Zeruik/zth-idf/releases) |
 | ZTH Design Studio | 离线平面设计 / Offline graphic design | [Source](https://github.com/Zeruik/zth-design-studio) · [Releases](https://github.com/Zeruik/zth-design-studio/releases) |
 | ZTH Studio Desk | 学习与工程工作空间 / Learning and engineering workspace | [Source](https://github.com/Zeruik/zth-studio-desk) · [Releases](https://github.com/Zeruik/zth-studio-desk/releases) |
 | ZTH Screen Studio | ESP32 屏幕工程 / ESP32 display projects | [Source](https://github.com/Zeruik/zth-screen-studio) · [Releases](https://github.com/Zeruik/zth-screen-studio/releases) |
