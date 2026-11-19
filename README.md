@@ -245,6 +245,20 @@ Material selection, print parameters, multi-material workflows, hotend switching
 
 ## 🚀 Selected Projects & Initiatives | 项目与实践方向
 
+### 开源工具入口 | Open source tools
+
+| 项目 / Project | 用途 / Purpose | 源码与版本 / Source and releases |
+|---|---|---|
+| ZTH-IDF | 微控制器开发与通信 / MCU development and communication | [Source](https://github.com/Zeruik/zth-idf) · [Releases](https://github.com/Zeruik/zth-idf/releases) |
+| ZTH Design Studio | 离线平面设计 / Offline graphic design | [Source](https://github.com/Zeruik/zth-design-studio) · [Releases](https://github.com/Zeruik/zth-design-studio/releases) |
+| ZTH Studio Desk | 学习与工程工作空间 / Learning and engineering workspace | [Source](https://github.com/Zeruik/zth-studio-desk) · [Releases](https://github.com/Zeruik/zth-studio-desk/releases) |
+| ZTH Screen Studio | ESP32 屏幕工程 / ESP32 display projects | [Source](https://github.com/Zeruik/zth-screen-studio) · [Releases](https://github.com/Zeruik/zth-screen-studio/releases) |
+| ZTH Studio Forge | 工程环境与数据审查 / Environments and dataset review | [Source](https://github.com/Zeruik/zth-studio-forge) · [Releases](https://github.com/Zeruik/zth-studio-forge/releases) |
+| ZeroToHand Academy | 离线双语工程学习 / Offline bilingual engineering learning | [Source](https://github.com/Zeruik/zerotohand-academy) · [Releases](https://github.com/Zeruik/zerotohand-academy/releases) |
+
+请以各项目说明中的平台支持和实际发布附件为准。软件与仿真测试的范围见各项目验证记录。
+See each repository for supported platforms, downloadable assets and the scope of software/simulation validation.
+
 ### 01 · TECHABJ Robotics Workbench
 **Robot Configuration, Visualization & Motion Validation**
 
